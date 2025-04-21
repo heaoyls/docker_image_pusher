@@ -2,4 +2,3 @@ nginx
 mysql
 redis
 rabbitmq
-nacos
